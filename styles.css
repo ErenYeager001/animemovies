@@ -1,6 +1,6 @@
 h2{
     text-align:center;
-    background-color: red;
+    color: red;
     border-radius: 10%;
     border-left-width: 10% ;
     font-family:Consolas;
@@ -13,7 +13,6 @@ body{
 }
 h1{
     text-align:center;
-    background-color: red;
     font-family:Consolas;
     border-radius: 10%;
     color: yellow;
