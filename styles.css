@@ -1,0 +1,19 @@
+h2{
+    text-align:center;
+    background-color: red;
+    border-radius: 10%;
+    border-left-width: 10% ;
+    font-family:Consolas;
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align:center;
+    background-color: red;
+    font-family:Consolas;
+    border-radius: 10%;
+}
